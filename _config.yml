@@ -181,10 +181,10 @@ kramdown:
     permalink: /:collection?:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection?/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection?/:path/
   blog posts:
     output: true
     permalink: /:collection?:path/
@@ -252,7 +252,7 @@ defaults:
       # _blog posts
   - scope:
       path: ""
-      type: blogs
+      type: posts
     values:
       layout: single
       author_profile: true
