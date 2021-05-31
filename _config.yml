@@ -173,13 +173,21 @@ kramdown:
 
 
 # Collections
-collections:
+  interests:
+    output: true
+    permalink: /:collection?:path/
+  funding:
+    output: true
+    permalink: /:collection?:path/
   publications:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+  blog posts:
+    output: true
+    permalink: /:collection?:path/
 
 
 # Defaults
@@ -202,6 +210,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+      # _interests
+  - scope:
+      path: ""
+      type: interests
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
+     # _funding
+  - scope:
+      path: ""
+      type: funding
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
   # _publications
   - scope:
@@ -218,7 +244,17 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+      
+      
+      # _blog posts
+  - scope:
+      path: ""
+      type: blogs
+    values:
+      layout: single
       author_profile: true
       share: true
 
