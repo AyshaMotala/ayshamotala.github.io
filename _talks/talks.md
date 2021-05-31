@@ -12,8 +12,7 @@ Motala, A. Starting out and Enjoying your PhD. Doctoral Academy, Cardiff Univers
 
 
 
-**Conference and Other Oral Presentations
-**
+**Conference and Other Oral Presentations**
 
 Motala, A., Herrmann, B. & Johnsrude, I. Assessing the effects of masked speech in narrative listening using neuroimaging. Association for Research in Otolaryngology Annual Midwinter Meeting, 2021
 
