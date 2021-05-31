@@ -1,6 +1,6 @@
 ---
 title: 'TRF2 Blog Update (November, 2019)'
-permalink: /posts/2019/11/blog-post-1/
+permalink: /posts/
 tags:
   - cool posts
 ---
