@@ -1,5 +1,12 @@
 # main links links
 main:
+
+  - title: "Interests"
+    url: /interests/
+    
+  - title: "Funding"
+    url: /funding/
+
   - title: "Publications"
     url: /publications/
 
