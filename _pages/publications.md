@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 BrainHack Global Collaboration: Gau et al. (2021). BrainHack: inclusivity and openness stimulate professional development and scientific progress (forthcoming - accepted in Neuron).
 
 Motala, A., Zhang, H. & Alais, D. (2020). Auditory rate perception displays a positive serial dependence. i-Perception, 11(6), 1–17. 
