@@ -6,9 +6,6 @@ author_profile: false
 ---
 
 
-**Funding Awards**
-
-
 2020 - Canadian Institutes of Health Research Postdoctoral Fellowship
 
 2020 - University of Western Ontario brainsCAN Postdoctoral Fellowship (top-up)
